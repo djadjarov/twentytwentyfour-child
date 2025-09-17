@@ -1,0 +1,59 @@
+{
+	"version": 2,
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "Inter",
+					"slug": "inter",
+					"name": "Inter",
+					"fontFace": [
+						{
+							"fontFamily": "Inter",
+							"fontStyle": "normal",
+							"fontWeight": "300 900",
+							"fontDisplay": "swap",
+							"src": [
+								"file:./assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2"
+							]
+						}
+					]
+				},
+				{
+					"fontFamily": "Cardo",
+					"slug": "cardo",
+					"name": "Cardo",
+					"fontFace": [
+						{
+							"fontFamily": "Cardo",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"fontDisplay": "swap",
+							"src": [
+								"file:./assets/fonts/cardo/cardo_normal_400.woff2"
+							]
+						},
+						{
+							"fontFamily": "Cardo",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"fontDisplay": "swap",
+							"src": [
+								"file:./assets/fonts/cardo/cardo_italic_400.woff2"
+							]
+						},
+						{
+							"fontFamily": "Cardo",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"fontDisplay": "swap",
+							"src": [
+								"file:./assets/fonts/cardo/cardo_normal_700.woff2"
+							]
+						}
+					]
+				}
+			]
+		}
+	}
+}
