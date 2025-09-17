@@ -70,7 +70,7 @@
     ![Alt text](./before-after-assets/5.news-front.gif)
     ![Alt text](./before-after-assets/4.news-slider.png)
 
-  - **Google Map** — блок, който използва ACF полета `latitude` и `longitude` и показва Google Map с маркер на посочените координати. полета `latitude` и `longitude` са задължителни.
+  - **Google Map** — блок, който използва ACF полета `latitude` и `longitude` и показва Google Map с маркер на посочените координати. Полета `latitude` и `longitude` са задължителни.
     > За да работи картата се изисква API ключ. Добавете в wp-config.php  `define( 'GMAPS_API_KEY', 'your api key' );`
 
     ![Alt text](./before-after-assets/6.map-front.png)
